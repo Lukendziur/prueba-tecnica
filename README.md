@@ -1,0 +1,1 @@
+#Este ejercicio de prueba corresponde a: Lucila V. Kendziur para el puesto de Oracle NetSuite Developer Trainee en Adistec
